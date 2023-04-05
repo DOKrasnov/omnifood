@@ -3,3 +3,5 @@
 The original idea of omnifood belongs to the author of the course:
 
 Build Responsive Real-World Websites with HTML and CSS. [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+
+[Uploaded on Netlify](https://krasnov-omnifood.netlify.app/)
